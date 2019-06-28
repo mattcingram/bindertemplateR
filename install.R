@@ -1,5 +1,7 @@
 install.packages("pacman")
 install.packages("spdep")
+install.packages("spatialreg")
+install.packages("splm")
 install.packages("graphicsQC")
 install.packages("prettyR")
 install.packages("RColorBrewer") 
